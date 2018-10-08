@@ -1,5 +1,5 @@
 baseURL = "https://port-zero.com/"
-theme = "portzero"
+theme = "p0-theme"
 [outputs]
   home = ["HTML"]
   page = ["HTML"]
