@@ -1,0 +1,3 @@
+[submodule "themes/p0-theme"]
+	path = themes/p0-theme
+	url = https://github.com/port-zero/hugo-theme
